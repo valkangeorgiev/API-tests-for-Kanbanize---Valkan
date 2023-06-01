@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical2 Kanbanize API - Valkan", "Practical2 Kanbanize API - Valkan\Practical2 Kanbanize API - Valkan.csproj", "{A131379F-95C4-4757-A413-86479A6E7C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A131379F-95C4-4757-A413-86479A6E7C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A131379F-95C4-4757-A413-86479A6E7C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A131379F-95C4-4757-A413-86479A6E7C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A131379F-95C4-4757-A413-86479A6E7C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD780DBB-0580-4488-8C08-0EDBAD43ABF3}
+	EndGlobalSection
+EndGlobal
